@@ -17,7 +17,7 @@ async function launching() {
     );
     // page = await browser.newPage();
     page = (await browser.pages())[0];
-    await page.goto("https://mall.industry.siemens.com/mall/en/WW/Catalog/Products/10229848?tree=CatalogTree");
+    await page.goto("https://sport.aiv.hfoed.de/ords/f?p=41666:1");
     await page.waitForSelector('div', {timeout: 5000});
 
 }
