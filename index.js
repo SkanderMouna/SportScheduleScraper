@@ -33,6 +33,8 @@ async function getInformation() {
     await getDayInformation("Tuesday", "#report_R12610186338540106932")
     console.log("hehe")
     await getDayInformation("Wensday", "#report_R12610187325857112688")
+    console.log("hehe")
+    await getDayInformation("Thirsday", "#report_R12610188446982118803")
 
 }
 
@@ -48,7 +50,7 @@ let columnData=[]
     for (let i = 2; i <= getNumberOfPlans; i++) {
         rowSelector = selector + ':nth-child(' + i.toString() + ')'
         columnSelector = rowSelector + '>td'
-     columnData[index]=   await getColumnInformation(columnSelector)
+     columnData[index]=   await getColumnInformation(day,columnSelector)
         //todo for everycolmn add to json file
         /*
         {"monday":[{begin:18:00,ende:19:00},{begin:19:00,ende:20:00}]
@@ -64,7 +66,7 @@ let columnData=[]
     }
 }
 
-async function getColumnInformation(columnSelector) {
+async function getColumnInformation(day,columnSelector) {
     let getSelector
     let getInformation
     let data = []
@@ -78,7 +80,9 @@ async function getColumnInformation(columnSelector) {
         index++
     }
     //transform data table to an object
-    let dataObj={start:data[0],
+    let dataObj={
+        day:day,
+        start:data[0],
     end:data[1],
     art:data[2],
     ort:data[3],
