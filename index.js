@@ -4,7 +4,7 @@ let page;
 
 async function start() {
     try {
-
+        await clearCSV()
         await launching()
         await getInformation()
         // await browser.close()
@@ -104,5 +104,16 @@ async function setCSVFile(products) {
     const csv = new ObjectsToCsv(products)
 
     await csv.toDisk('./plan.csv', {append: true})
+}
+async function clearCSV()
+{
+    const fs = require('fs');
+
+    const filename = 'plan.csv';
+
+    fs.writeFile(filename, '', function(err) {
+        if (err) throw err;
+        console.log('File cleared!');
+    });
 }
 start()
