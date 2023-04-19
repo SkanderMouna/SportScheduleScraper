@@ -28,13 +28,13 @@ async function launching() {
 }
 
 async function getInformation() {
-    await getDayInformation("Monday", "#report_R12610172541656757722")
+    await getDayInformation("Montag", "#report_R12610172541656757722")
     console.log("hehe")
-    await getDayInformation("Tuesday", "#report_R12610186338540106932")
+    await getDayInformation("Dienstag", "#report_R12610186338540106932")
     console.log("hehe")
-    await getDayInformation("Wensday", "#report_R12610187325857112688")
+    await getDayInformation("Mittwoch", "#report_R12610187325857112688")
     console.log("hehe")
-    await getDayInformation("Thirsday", "#report_R12610188446982118803")
+    await getDayInformation("Donnerstag", "#report_R12610188446982118803")
 
 }
 
@@ -82,12 +82,12 @@ async function getColumnInformation(day,columnSelector) {
     //transform data table to an object
     let dataObj={
         day:day,
-        start:data[0],
-    end:data[1],
-    art:data[2],
-    ort:data[3],
-    platz:data[4],
-    beschreibung:data[5]}
+        Beginn:data[0],
+    Ende:data[1],
+    SportArt:data[2],
+    Ort:data[3],
+    Platz:data[4],
+    Beschreibung:data[5]}
     console.log("Beschreibung: "+data[5])
     return dataObj
 }
