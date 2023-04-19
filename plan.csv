@@ -1,64 +1,39 @@
 day,start,end,art,ort,platz,beschreibung
-Monday,15:00,16:00,Fußball Doz/Verw,Hallenhälfte 2 (rechts),10,0
-Monday,15:30,17:00,Mixed Martial Arts,Hallenhälfte 2 (rechts),9,0
-Monday,16:30,18:00,Volleyball/Basic,Hallenhälfte 1 (links),8,0
-Monday,17:00,18:30,jumping fitness 1,Hallenhälfte 2 (rechts),voll,0
-Monday,18:00,19:00,C-FiT,Hallenhälfte 1 (links),10,0
-Monday,18:30,20:00,jumping fitness 2,Hallenhälfte 2 (rechts),1,0
-Monday,19:00,20:00,Volleyball/Basic,Hallenhälfte 1 (links),9,0
-Monday,20:00,21:00,Hatha-Yoga,Halle komplett,Ausfall,0
-Monday,20:00,21:00,Zur freien Verfügung,Halle komplett,frei,0
-Monday,21:00,22:00,Badminton 1,Hallenhälfte 1 (links),9,0
-Monday,21:00,22:00,Badminton 1,Hallenhälfte 2 (rechts),12,0
-Tuesday,16:00,17:00,Badminton 1,Hallenhälfte 1 (links),12,0
-Tuesday,16:00,17:00,Badminton Doz/Verw,Hallenhälfte 2 (rechts),9,0
-Tuesday,16:30,17:30,Nordic Walking,Hof und Umgebung,10,0
-Tuesday,17:00,18:00,Fußball - Herren,Halle komplett,12,0
-Tuesday,18:00,19:00,Bauch - Beine - Po,Halle komplett,44,0
-Tuesday,19:00,21:00,Selbstvert./Waffenkampf,Hallenhälfte 1 (links),14,0
-Tuesday,19:00,20:00,Handball - Männer/Frauen,Hallenhälfte 2 (rechts),10,0
-Tuesday,20:00,21:00,Tischtennis,Hallenhälfte 2 (rechts),15,0
-Tuesday,21:00,22:00,Basketball/Freizeit,Halle komplett,15,0
-Wensday,16:00,17:30,Volleyball/Freizeit,Hallenhälfte 1 (links),10,0
-Wensday,16:00,16:30,Zur freien Verfügung,Hallenhälfte 2 (rechts), frei,0
-Wensday,16:30,17:30,STEP Aerobic,Hallenhälfte 2 (rechts),22,0
-Wensday,17:30,18:30,Rückenfit,Halle komplett,45,0
-Wensday,18:30,19:30,Y-OGA,Halle komplett,19,0
-Wensday,19:30,20:30,Fußball Mixed,Halle komplett,11,0
-Wensday,20:30,22:00,Basketball/Freizeit,Halle komplett,15,0
-Monday,15:00,16:00,Fußball Doz/Verw,Hallenhälfte 2 (rechts),10,0
-Monday,15:30,17:00,Mixed Martial Arts,Hallenhälfte 2 (rechts),9,0
-Monday,16:30,18:00,Volleyball/Basic,Hallenhälfte 1 (links),8,0
-Monday,17:00,18:30,jumping fitness 1,Hallenhälfte 2 (rechts),voll,0
-Monday,18:00,19:00,C-FiT,Hallenhälfte 1 (links),10,0
-Monday,18:30,20:00,jumping fitness 2,Hallenhälfte 2 (rechts),1,0
-Monday,19:00,20:00,Volleyball/Basic,Hallenhälfte 1 (links),9,0
-Monday,20:00,21:00,Hatha-Yoga,Halle komplett,Ausfall,0
-Monday,20:00,21:00,Zur freien Verfügung,Halle komplett,frei,0
-Monday,21:00,22:00,Badminton 1,Hallenhälfte 1 (links),9,0
-Monday,21:00,22:00,Badminton 1,Hallenhälfte 2 (rechts),12,0
-Tuesday,16:00,17:00,Badminton 1,Hallenhälfte 1 (links),12,0
-Tuesday,16:00,17:00,Badminton Doz/Verw,Hallenhälfte 2 (rechts),9,0
-Tuesday,16:30,17:30,Nordic Walking,Hof und Umgebung,10,0
-Tuesday,17:00,18:00,Fußball - Herren,Halle komplett,12,0
-Tuesday,18:00,19:00,Bauch - Beine - Po,Halle komplett,44,0
-Tuesday,19:00,21:00,Selbstvert./Waffenkampf,Hallenhälfte 1 (links),14,0
-Tuesday,19:00,20:00,Handball - Männer/Frauen,Hallenhälfte 2 (rechts),10,0
-Tuesday,20:00,21:00,Tischtennis,Hallenhälfte 2 (rechts),15,0
-Tuesday,21:00,22:00,Basketball/Freizeit,Halle komplett,15,0
-Wensday,16:00,17:30,Volleyball/Freizeit,Hallenhälfte 1 (links),10,0
-Wensday,16:00,16:30,Zur freien Verfügung,Hallenhälfte 2 (rechts), frei,0
-Wensday,16:30,17:30,STEP Aerobic,Hallenhälfte 2 (rechts),22,0
-Wensday,17:30,18:30,Rückenfit,Halle komplett,45,0
-Wensday,18:30,19:30,Y-OGA,Halle komplett,19,0
-Wensday,19:30,20:30,Fußball Mixed,Halle komplett,11,0
-Wensday,20:30,22:00,Basketball/Freizeit,Halle komplett,15,0
-Thirsday,16:00,17:00,Zur freien Verfügung,Hallenhälfte 1 (links),frei,0
-Thirsday,16:00,17:00,Fit für den Alltag (BGM),Hallenhälfte 2 (rechts),14,0
-Thirsday,16:30,17:30,Lauftreff,Hof und Umgebung,frei,0
-Thirsday,17:00,18:00,Badminton 1,Hallenhälfte 1 (links),10,0
-Thirsday,17:00,18:00,Tischtennis,Hallenhälfte 2 (rechts),15,0
-Thirsday,18:00,19:30,Cricket,Hallenhälfte 1 (links),frei,0
-Thirsday,18:00,19:30,C-FiT,Hallenhälfte 2 (rechts),15,0
-Thirsday,19:30,20:30,Zumba,Halle komplett,47,0
-Thirsday,20:30,22:00,Fußball - Herren,Halle komplett,12,0
+Monday,15:00,16:00,Fußball Doz/Verw,Hallenhälfte 2 (rechts),10,1 Stunde Fußball für Beschäftigte der Lehre und der Verwaltung
+Monday,15:30,17:00,Mixed Martial Arts,Hallenhälfte 2 (rechts),9,"Thaiboxen und Fitness für Fighter, für Anfänger und  Fortg.- mit Yusuf ab 15:35h"
+Monday,16:30,18:00,Volleyball/Basic,Hallenhälfte 1 (links),8,"VB für Einsteiger und Freizeitspieler
+Techniktraining und Spiel"
+Monday,17:00,18:30,jumping fitness 1,Hallenhälfte 2 (rechts),voll,"Fitnessprogr. auf Minitrampolin, 17:00h Aufbau, 17:10h-18:20h Aktive Zeit, Handtuch!"
+Monday,18:00,19:00,C-FiT,Hallenhälfte 1 (links),10,Hochintensives Training - Florian und Ferdinand 
+Monday,18:30,20:00,jumping fitness 2,Hallenhälfte 2 (rechts),1,"Fitnessprogr. auf Minitrampolin, 18:30h-19:40h Aktive Zeit, 19:40h Abbau, Handtuch!"
+Monday,19:00,20:00,Volleyball/Basic,Hallenhälfte 1 (links),9,"VB für Einsteiger und Freizeitspieler
+Techniktraining und Spiel"
+Monday,20:00,21:00,Hatha-Yoga,Halle komplett,Ausfall,Bitte Handtuch und ggf. Decke mitbringen. Matten sind vorhanden. Stephanie
+Monday,20:00,21:00,Zur freien Verfügung,Halle komplett,frei,In der Sporthalle kann jegliche Sportart ausgeübt werden
+Monday,21:00,22:00,Badminton 1,Hallenhälfte 1 (links),9,Für Hobby- und Freizeitspieler. Eigene Schläger und Bälle sind mitzubringen!
+Monday,21:00,22:00,Badminton 1,Hallenhälfte 2 (rechts),12,Für Hobby- und Freizeitspieler. Eigene Schläger und Bälle sind mitzubringen!
+Tuesday,16:00,17:00,Badminton 1,Hallenhälfte 1 (links),12,Für Hobby- und Freizeitspieler. Eigene Schläger und Bälle sind mitzubringen!
+Tuesday,16:00,17:00,Badminton Doz/Verw,Hallenhälfte 2 (rechts),9,1 Stunde Badminton für Beschäftigte der Lehre und der Verwaltung
+Tuesday,16:30,17:30,Nordic Walking,Hof und Umgebung,10,60 Min. NW im Stadtpark - mit Gerhard +++NW Stöcke stehen zur Verfügung
+Tuesday,17:00,18:00,Fußball - Herren,Halle komplett,12,Schau vorbei und bin dabei - beim Hochschulfußball in der Sporthalle
+Tuesday,18:00,19:00,Bauch - Beine - Po,Halle komplett,44,Aktivprogramm mit Gerhard (Handtuch mitbringen!)
+Tuesday,19:00,21:00,Selbstvert./Waffenkampf,Hallenhälfte 1 (links),14,Historische Kampfkunst mit Schwertern - Philipp
+Tuesday,19:00,20:00,Handball - Männer/Frauen,Hallenhälfte 2 (rechts),10,Herzliche Einladung in die Sporthalle zum Handball-Mixed-Training
+Tuesday,20:00,21:00,Tischtennis,Hallenhälfte 2 (rechts),15,Bei Bedarf stehen auch Schläger und Bälle zur Verfügung
+Tuesday,21:00,22:00,Basketball/Freizeit,Halle komplett,15,"Anspruchsvolle Ballsportart, die viel Spaß bereitet!"
+Wensday,16:00,17:30,Volleyball/Freizeit,Hallenhälfte 1 (links),10,Volleyball für Fortgeschrittene und Vereinsspieler
+Wensday,16:00,16:30,Zur freien Verfügung,Hallenhälfte 2 (rechts), frei,In der Sporthalle kann jegliche Sportart ausgeübt werden
+Wensday,16:30,17:30,STEP Aerobic,Hallenhälfte 2 (rechts),22,Step Basic Training - Inge
+Wensday,17:30,18:30,Rückenfit,Halle komplett,45,Eine Stunde Gutes tun - für seinen Rücken! Gerhard (Handtuch!)
+Wensday,18:30,19:30,Y-OGA,Halle komplett,19,Kraft und Dehnung für den ganzen Körper ! (Johanna) YOGA Matten sind vorhanden!
+Wensday,19:30,20:30,Fußball Mixed,Halle komplett,11,Eine Stunde Mixed Fußball! Hier profitieren alle!
+Wensday,20:30,22:00,Basketball/Freizeit,Halle komplett,15,"Anspruchsvolle Ballsportart, die viel Spaß bereitet!"
+Thirsday,16:00,17:00,Zur freien Verfügung,Hallenhälfte 1 (links),frei,In der Sporthalle kann jegliche Sportart ausgeübt werden
+Thirsday,16:00,17:00,Fit für den Alltag (BGM),Hallenhälfte 2 (rechts),14,"Fitnessangebot, nur für Besch. der HföD/HAW im Rahmen des BGM - Gerhard (Handtuch!)"
+Thirsday,16:30,17:30,Lauftreff,Hof und Umgebung,frei,"siehe dazu den Infokasten am Eingang der Sporthalle, 16:30h - 17:30h"
+Thirsday,17:00,18:00,Badminton 1,Hallenhälfte 1 (links),10,Für Hobby- und Freizeitspieler. Eigene Schläger und Bälle sind mitzubringen!
+Thirsday,17:00,18:00,Tischtennis,Hallenhälfte 2 (rechts),15,Bei Bedarf stehen auch Schläger und Bälle zur Verfügung
+Thirsday,18:00,19:30,Cricket,Hallenhälfte 1 (links),frei,Cricket ist ein Schlagballspiel mit zwei Mannschaften!+++Schau einfach mal vorbei!
+Thirsday,18:00,19:30,C-FiT,Hallenhälfte 2 (rechts),15,Hochintensives Training - Florian und Ferdinand 
+Thirsday,19:30,20:30,Zumba,Halle komplett,47,Mischung aus Aerobic und lateinamerikanischen Tanzelementen - Sabine
+Thirsday,20:30,22:00,Fußball - Herren,Halle komplett,12,Schau vorbei und bin dabei - beim Hochschulfußball in der Sporthalle

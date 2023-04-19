@@ -71,7 +71,7 @@ async function getColumnInformation(day,columnSelector) {
     let getInformation
     let data = []
     let index = 0
-    for (let i = 2; i <= 6; i++) {
+    for (let i = 2; i <= 7; i++) {
         getSelector = await page.$(columnSelector + ':nth-child(' + i.toString() + ')')
         getInformation = await page.evaluate(el => el.textContent, getSelector)
 
@@ -87,7 +87,8 @@ async function getColumnInformation(day,columnSelector) {
     art:data[2],
     ort:data[3],
     platz:data[4],
-    beschreibung:0}
+    beschreibung:data[5]}
+    console.log("Beschreibung: "+data[5])
     return dataObj
 }
 /**
